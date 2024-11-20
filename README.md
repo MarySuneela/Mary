@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*aniyNTcHORbvDiLGUzJSsQ.gif)
+![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*aniyNTcHORbvDiLGUzJSsQ.gif) 
 <h1 align="center">Hi 👋, I'm Mary!</h1>
 <h3 align="center">A passionate Full-Stack Developer and Data Enthusiast!</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/73159092/106097036-9e8f2980-615c-11eb-9860-5aa437be7fc9.gif">
